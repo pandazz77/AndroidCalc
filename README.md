@@ -1,2 +1,2 @@
-# ExampleApplication
-# ExampleApplication
+# AndroidCalc
+# simple android calculator
